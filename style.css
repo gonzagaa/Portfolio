@@ -21,7 +21,7 @@
 }
 
 body {
-  background-color: #121215;
+  background-color: #181818;
   color: #eaeaea;
 
   font-family: 'Roboto', sans-serif;
@@ -99,7 +99,7 @@ aside {
   border-right: 1px solid;
   border-image: linear-gradient(#727275, #2c2c31) 1;
 
-  background-image: url("./assets/background.svg");
+  background-image: url("./assets/Fundo.svg");
   background-position: top right;
   background-repeat: no-repeat;
   background-size: auto 100%;
@@ -116,7 +116,7 @@ aside img {
   border-radius: 50%;
 
   border: 4px solid transparent;
-  background: linear-gradient(#af8bf6, #7f17ff49, #8160c7) padding-box, linear-gradient(260deg, #af8bf6, #7f17ff49, #8160c7) border-box;
+  background: linear-gradient(#333333, #43434349, #181818) padding-box, linear-gradient(260deg, #181818, #43434349, #181818) border-box;
 }
 
 aside p {
