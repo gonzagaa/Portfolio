@@ -129,21 +129,39 @@ display: flex;
 gap: 30px;
 }
 
+.github:hover {
+  transform: scale(1.2);
+}
+
+.linkedin:hover {
+  transform: scale(1.2);
+}
+
+.wpp:hover {
+  transform: scale(1.2);
+}
+
 .wpp {
   margin-top: 1px;
   height: 40px;
   width: 40px;
+
+  transition: transform 0.2s ease-in-out;
 }
 
 .linkedin {
   height: 42px;
   width: 42px;
+
+  transition: transform 0.2s ease-in-out;
 }
 
 .github {
   margin-top: 1px;
   height: 40px;
   width: 40px;
+
+  transition: transform 0.2s ease-in-out;
 }
 
 
